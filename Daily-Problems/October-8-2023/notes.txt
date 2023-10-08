@@ -13,4 +13,4 @@
 2) Loop Patterns(Nested 2 for loops)
 - Each element can be represented by a respective i and j value
 - The outer loop controls the rows
-- The Inner loop controls the colums
+- The Inner loop controls the columns (Each element in a row)
