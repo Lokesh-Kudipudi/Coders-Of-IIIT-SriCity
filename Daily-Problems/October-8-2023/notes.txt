@@ -1,0 +1,16 @@
+1) Various format specifiers in C
+
+%c For character type
+%d For signed integer type
+%e or %E For scientific notation of floats
+%f For float type
+%o Octal
+%p pointer
+%s string
+%x or %X Hexadecimal
+%n Prints Nothing
+
+2) Loop Patterns(Nested 2 for loops)
+- Each element can be represented by a respective i and j value
+- The outer loop controls the rows
+- The Inner loop controls the colums
