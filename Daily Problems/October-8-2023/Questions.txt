@@ -1,0 +1,19 @@
+1) Write a Program which accepts an integer and print it's respective Hexadecimal,Octal and respective char according to ASCII
+
+2) Write a Program which accepts a year from the user and finds out if it is a leap year or not(Use appropriate error message for 0 and negative numbers)
+
+3) Accepts three integers and find out the three integers can be a pythogorous Triplets(Use a Seperate Function)
+
+4) use loops and print the following pattern
+1 2 3 4 5
+2 4 6 8 10 
+3 6 9 12 15 
+4 8 12 16 20 
+5 10 15 20 25
+
+5) Accept an integer N from the user and print a square of size N filled with 1
+
+Example if N = 3
+Output:- 111
+				 111
+				 111
