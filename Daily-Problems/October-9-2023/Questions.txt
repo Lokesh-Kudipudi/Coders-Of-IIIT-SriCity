@@ -1,0 +1,48 @@
+// October 9 2023
+
+1) Accept an integer and find if the given number is a prime number or not.
+
+2) Accept two integers a and b. Print 'a' number of rows and 'b' number of columns filled with stars.
+
+Example 
+- a = 3 and b = 5
+
+*****
+*****
+*****
+
+- a = 5 and b = 3
+***
+***
+***
+***
+***
+
+3) Accept an Integer n and print a sqaure of alternate '1' and '0'.
+
+example
+- n = 5
+
+10101
+01010
+10101
+01010
+10101
+
+4) Accept a string without space and find its length without using the length method.
+
+5) Accept an integer n and then accept a sequence of n integers and find the sum of all the integers in that sequence.
+
+Example:
+n = 5
+Sequence of 5 integers: 1 3 4 6 7
+Sum is 21
+
+BONUS :- Accept a sequence of integers from the user and find the sum of the sequence untill the user input '0'
+
+example:-
+Input ;- 1 2 3 4 5 6 7 8 9 10 0
+output :- 55
+
+
+
