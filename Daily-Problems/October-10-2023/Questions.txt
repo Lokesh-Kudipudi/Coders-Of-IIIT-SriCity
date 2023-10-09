@@ -1,0 +1,42 @@
+1) According to the Gregorian calendar, it was Monday on the
+date 01/01/1900. If any year is input through the keyboard
+write a program to find out what is the day on 1st January of
+this year.
+
+2) Write a program to print out all Armstrong numbers between
+1 and 500. If sum of cubes of each digit of the number is
+equal to the number itself, then the number is called an
+Armstrong number. For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5
+*5)+(3*3*3)
+
+3)Write a program in C to get the largest element of an array using the function.
+
+Test Data :
+Input the number of elements to be stored in the array : 5
+Input 5 elements in the array :
+element - 0 : 1
+element - 1 : 2
+element - 2 : 3
+element - 3 : 4
+element - 4 : 5
+
+Expected Output :
+
+The largest element in the array is : 5 
+
+4)  Write a program in C to split strings by space into words.
+
+Test Data :
+Input a string : this is a test string
+Expected Output :
+
+Strings or words after split by space are : 
+
+this
+is 
+a
+test
+string
+
+5) Write a program and find if a given number is a palindrome or not.
+
