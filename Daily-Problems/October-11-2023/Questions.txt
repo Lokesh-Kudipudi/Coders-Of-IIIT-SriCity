@@ -1,0 +1,33 @@
+// October 11 2023
+
+1)Write a C program to count the even number of elements in a given array of integers.
+ 
+
+2)Write a program to swap two numbers without using the third variable
+ 
+Find output of following
+
+3)
+#include<stdio.h>
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+    printf("%d", *arr);
+    return 0;
+}
+
+4)
+#include<stdio.h>
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+    printf("%d", *(arr + 2));
+    return 0;
+}
+
+
+5)
+#include<stdio.h>
+int main() {
+    int arr[5] = {1, 2, 3, 4, 5};
+    printf("%d", 2[arr]);
+    return 0;
+}
