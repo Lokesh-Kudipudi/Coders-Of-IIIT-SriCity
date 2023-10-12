@@ -1,0 +1,15 @@
+// October 12 2023
+
+1) Write a program to print a character without using format specifiers
+
+2) Write a C program to remove consecutive repetitive characters from string
+
+3) Write a c program to guess random number using stdlib.h and time.h library
+
+4) Write a C program that accepts a string and counts the number of vowels and consonants in the string.
+
+5) Display the following Output
+1  -- Convert Decimal to Binary
+2 -- Convert Binary to Decimal
+
+According to the given user input do the required operations and convert Decimal to Binary and vise versa
