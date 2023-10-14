@@ -1,0 +1,17 @@
+//October 14 2023
+
+1) C Program to Sort the Elements of an Array in Ascending Order 
+
+2) C Program to Print Continuous Character Pattern
+
+Input:
+rows = 5
+
+Output:
+A 
+B B 
+C C C 
+D D D D 
+E E E E E
+
+3) A pangram is a sentence containing every letter in the English Alphabet. Write a C program to find if the entered string is a pangram string.
