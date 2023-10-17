@@ -1,0 +1,19 @@
+//October 17 2023
+
+1) Write a C code to shift the elements of an array to right side by given number
+
+Test data: 
+
+Array : 1 2 3 4 5
+Shift number : 2
+Final Array : 4 5 1 2 3
+
+2) Write a C code to find the two elements of an array whose sum is closest to zero
+
+3) Write a C code which gives the indexes of the elements of the array whose sum is equal to a target sum
+
+Test data: 
+
+Array : 1 2 3 4 5 
+Target sum : 9
+Indexs are : 3 4
