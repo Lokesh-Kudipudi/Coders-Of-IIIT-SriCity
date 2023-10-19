@@ -1,0 +1,16 @@
+//October 18 2023
+
+1) Write a program to accept a string and print the sum of the their respective ASCII values
+
+2) Write a user defined function which converts a given string to lower case and another user defined function which converts a given string to Uppercase
+
+3) Write a program to accept a string and print the type of each character of the string
+
+Example :-
+
+A@2_
+
+A - Letter
+@ - Special Character
+2 - Digit
+_ - Special Character
