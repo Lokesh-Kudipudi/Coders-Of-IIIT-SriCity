@@ -1,0 +1,7 @@
+//November 14
+
+1) Write a C program which uses pointers and returns two values.
+
+2) Define a structure to represent a student's information, including name, roll number, and an array to store grades in different subjects. Calculate and display the average grade for each student.
+
+3) Create a structure to represent time with hours, minutes, and seconds. Write a program that takes two time inputs, adds them, and displays the result.

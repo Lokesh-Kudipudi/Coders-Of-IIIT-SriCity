@@ -1,0 +1,5 @@
+1) Write a problem to do all Arthimetic Operations with Pointers
+
+2)  Write a program in C to find the maximum number between two numbers using a pointer.
+
+3) Write a program in C to print all the alphabets using a pointer.
